@@ -9,10 +9,13 @@
 <a href="https://trendshift.io/repositories/8908" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8908" alt="agiresearch%2FAIOS | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 The goal of AIOS is to build a large language model (LLM) agent operating system, which intends to embed large language model into the operating system as the brain of the OS. AIOS is designed to address problems (e.g., scheduling, context switch, memory management, etc.) during the development and deployment of LLM-based agents, for a better ecosystem among agent developers and users.
-
-## 🏠 Architecture of AIOS
+## 🏠 EXAMPLE OF AGENTS
 <p align="center">
   <img src="images/Agent-Example.png">
+  
+## 🏠 Architecture of AIOS
+<p align="center">
+
 <img src="images/AIOS-Architecture.png">
   
 </p>
